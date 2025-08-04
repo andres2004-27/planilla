@@ -46,3 +46,4 @@ public class Puestos {
     public void setSalario(double Salario) {
         this.Salario = Salario;
     }
+}
